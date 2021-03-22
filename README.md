@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-npm install --save-dev eslint-config-typescript-halo-lab
+npm install --save-dev eslint-config-halo-lab-typescript
 ```
 
 ## Usage
@@ -10,7 +10,7 @@ In ```.eslintrc```:
 ```json
 {
   "extends": [
-    "typescript-halo-lab"
+    "halo-lab-typescript"
   ]
 }
 ```
