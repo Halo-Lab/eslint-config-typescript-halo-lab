@@ -19,11 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Halo-Lab/eslint-config-halo-lab.git"
+    "url": "git+https://github.com/Halo-Lab/eslint-config-typescript-halo-lab"
   },
   "bugs": {
-    "url": "https://github.com/Halo-Lab/eslint-config-halo-lab/issues"
+    "url": "https://github.com/Halo-Lab/eslint-config-typescript-halo-lab/issues"
   },
-  "homepage": "https://github.com/Halo-Lab/eslint-config-halo-lab#readme",
+  "homepage": "https://github.com/Halo-Lab/eslint-config-typescript-halo-lab#readme",
   "devDependencies": {}
 }
