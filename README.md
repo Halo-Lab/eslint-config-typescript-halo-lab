@@ -15,6 +15,17 @@ In ```.eslintrc```:
 }
 ```
 
+And add your ```tsconfig.json``` in ```.eslintrc```;
+
+```json
+{
+  "parserOptions": {
+    "project": "tsconfig.json",
+    "tsconfigRootDir": "."
+  }
+}
+```
+
 ## Status and contribution
 The project is supported by Halo lab development team, we're not working on it regularly, but trying to invest in it when we have time between clients' project. <br />
 Though, feel free to open issues and you're very welcome to contribute. 

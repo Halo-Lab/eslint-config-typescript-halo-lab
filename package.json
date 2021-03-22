@@ -6,10 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["eslint", "tslint", "halo-lab-lint"],
+  "keywords": [
+    "eslint",
+    "tslint",
+    "halo-lab-lint"
+  ],
   "author": "Halo lab",
   "license": "ISC",
   "dependencies": {
+    "@typescript-eslint/parser": "^4.6.1",
     "@typescript-eslint/eslint-plugin": "^4.6.1",
     "eslint-config-airbnb-typescript": "^6.3.2",
     "eslint-config-halo-lab": "^1.0.15",
