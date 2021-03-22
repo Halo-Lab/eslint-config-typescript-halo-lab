@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-typescript-halo-lab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TS-lint config that halo lab development team is using for ReactJS projects",
   "main": "index.js",
   "scripts": {
